@@ -9,10 +9,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Room 312-1, Engineering Building 302</p>
-    <p>Seoul National University</p>
-    <p>1 Gwanangno, Gwanak-gu, Seoul 08826, Korea</p>
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
