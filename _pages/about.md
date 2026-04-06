@@ -22,3 +22,5 @@ latest_posts:
 ---
 
 I am an MS/PhD integrated program student at the [Intelligent Motion Lab](https://imo.snu.ac.kr) in the [Department of Computer Science and Engineering](https://cse.snu.ac.kr), Seoul National University, since September 2023. I received my B.S. in [Electrical and Computer Engineering](https://ece.snu.ac.kr) from Seoul National University in August 2023.
+
+My research interests include physics-based character animation, musculoskeletal simulation, deep reinforcement learning, and human movement analysis.
